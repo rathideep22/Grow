@@ -1,11 +1,11 @@
-# LEAP - Learning Enhancement And Progression📚🚀
+# GROW
 
 
 <div align="center">
     <img src="Leap_Logo_JPG.jpeg" alt="Project Logo" width="450">
 </div>
 
-LEAP is a web application that generates a personalized learning path based on your educational background, skills, and goals. The app uses an AI model to create a customized plan and allows you to download it as a `.docx` file. Built using Python, Streamlit, and the GROQ LLM API, the application generates comprehensive learning paths with key concepts, curated resources, and estimated completion timelines. Features include automated document generation for learning plans, and intelligent resource recommendations from trusted platforms. The tool helps users efficiently plan their learning journey by breaking down complex career transitions into structured, actionable steps with specific time estimates and progress tracking capabilities.
+GROW is a web application that generates a personalized learning path based on your educational background, skills, and goals. The app uses an AI model to create a customized plan and allows you to download it as a `.docx` file. Built using Python, Streamlit, and the GROQ LLM API, the application generates comprehensive learning paths with key concepts, curated resources, and estimated completion timelines. Features include automated document generation for learning plans, and intelligent resource recommendations from trusted platforms. The tool helps users efficiently plan their learning journey by breaking down complex career transitions into structured, actionable steps with specific time estimates and progress tracking capabilities.
 
 # Features🌟
 - Generates a customized learning path based on user input.
@@ -26,7 +26,7 @@ Before running the application, ensure you have the following installed:
 
 # Setting Up the Environment 
 # Step 1: Clone the Repository
-git clone https://github.com/gudashashank/LEAP
+git clone https://github.com/gudashashank/GROW
 
 cd learning-path-generator
 
