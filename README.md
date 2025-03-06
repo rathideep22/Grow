@@ -26,7 +26,7 @@ Before running the application, ensure you have the following installed:
 
 # Setting Up the Environment 
 # Step 1: Clone the Repository
-git clone https://github.com/gudashashank/GROW
+git clone https://github.com/rathideep22/Grow.git
 
 cd learning-path-generator
 
